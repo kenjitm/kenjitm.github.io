@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     littlefoot.littlefoot()
 
     var options = {
-        strings: ["Ph.D. Student", "Machine Learning GDE", "I'm Kenji Tanaka"],
+        strings: ["Software Developer", "I'm Kenji Tanaka"],
         typeSpeed: 50,
         showCursor: true,
         autoInsertCss: true,
